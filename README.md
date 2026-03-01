@@ -8,7 +8,7 @@
 
 ### Classic ASP 跨瀏覽器現代化升級 Skill
 
-**GitHub Copilot Agent Skill · 讓舊系統在 Chrome 正常跑，後端一行不動**
+讓跑了 10–20 年的 Classic ASP 網站，在 **Chrome / Edge 完美呈現**，同時**保留 IE8 相容**，**後端一行程式都不用動**。
 
 你有一批跑了十幾年的 Classic ASP 頁面。後端邏輯沒有問題，但前端在 Chrome 上跑版、JS 報錯、客戶開始抱怨。你知道該動了，但沒有人有把握「動了不會壞」。
 
